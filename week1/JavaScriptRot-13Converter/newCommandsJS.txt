@@ -1,0 +1,2 @@
+String.fromCharCode(number) -> will give a char from as ascii code
+.charCodeAt(index) -> will give an ascii code from a char
